@@ -28,6 +28,9 @@
       "name": "Mi Play"
     },
 	{
+      "name": "MIUI 10"
+    },
+	{
       "name": "Redmi Note 7"
     },
 	{
@@ -38,6 +41,501 @@
     }
   ],
 	"wallpapers": [
+		{
+			"name": "MIUI-10-01",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-01.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-02",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-02.png",
+			"dimensions": "1124 x 2000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-03",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-03.jpg",
+			"dimensions": "1024 x 1820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-04",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-04.png",
+			"dimensions": "2130 x 4617",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-05",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-05.jpg",
+			"dimensions": "1280 x 720",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-06",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-06.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-07",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-07.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-08",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-08.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-09",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-09.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-10",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-10.jpg",
+			"dimensions": "946 x 2048",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-11",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-11.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-12",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-12.jpg",
+			"dimensions": "768 x 1365",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-13",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-13.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-14",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-14.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-15",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-15.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-16",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-16.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-17",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-17.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-18",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-18.jpg",
+			"dimensions": "1024 x 1820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-19",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-19.jpg",
+			"dimensions": "1024 x 1820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-20",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-20.png",
+			"dimensions": "1595 x 3278",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-21",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-21.png",
+			"dimensions": "1440 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-22",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-22.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-23",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-23.jpg",
+			"dimensions": "768 x 1365",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-24",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-24.png",
+			"dimensions": "1126 x 2252",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-25",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-25.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-26",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-26.jpg",
+			"dimensions": "1024 x 1820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-27",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-27.png",
+			"dimensions": "2813 x 5000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-28",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-28.jpg",
+			"dimensions": "1125 x 2436",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-29",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-29.png",
+			"dimensions": "1685 x 3464",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-30",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-30.jpg",
+			"dimensions": "1007 x 1789",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-31",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-31.png",
+			"dimensions": "2130 x 4617",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-32",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-32.jpg",
+			"dimensions": "3036 x 4554",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-33",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-33.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-34",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-34.jpg",
+			"dimensions": "1024 x 1820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-35",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-35.jpg",
+			"dimensions": "2160 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-36",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-36.jpg",
+			"dimensions": "750 x 1334",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-37",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-37.png",
+			"dimensions": "1685 x 3464",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-38",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-38.png",
+			"dimensions": "1199 x 2597",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-39",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-39.png",
+			"dimensions": "1599 x 3464",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-40",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-40.png",
+			"dimensions": "2131 x 4617",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-41",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-41.png",
+			"dimensions": "1400 x 3033",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-42",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-42.png",
+			"dimensions": "1302 x 2822",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-43",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-43.png",
+			"dimensions": "1199 x 2597",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-44",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-44.png",
+			"dimensions": "1871 x 4054",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-45",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-45.png",
+			"dimensions": "720 x 1440",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-46",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-46.png",
+			"dimensions": "1200 x 2600",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-47",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-47.png",
+			"dimensions": "1701 x 3496",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-48",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-48.png",
+			"dimensions": "1599 x 3464",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-49",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-49.png",
+			"dimensions": "1903 x 4124",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-50",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-50.png",
+			"dimensions": "2247 x 4619",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-51",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-51.png",
+			"dimensions": "1422 x 2844",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-52",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-52.png",
+			"dimensions": "720 x 1440",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-53",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-53.png",
+			"dimensions": "800 x 1422",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-54",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-54.jpg",
+			"dimensions": "1290 x 2820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
+		{
+			"name": "MIUI-10-55",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Specially%20Designed%20MIUI%20Edition/MIUI-10-55.jpg",
+			"dimensions": "1200 x 2138",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "MIUI 10"
+		},
 		{
 			"name": "Mi-Play-01",
 			"author": "Xiaomi",
