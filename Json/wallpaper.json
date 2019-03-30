@@ -2,6 +2,9 @@
 "Collections": [
 	{
       "name": "Designed For S10"
+    },
+	{
+      "name": "Designed For S10 Plus"
     }
   ],
 	"wallpapers": [
@@ -201,7 +204,7 @@
 			"dimensions": "1440 x 3040",
 			"copyright": "Credits to its creator",
 			"downloadable": "true",
-			"collections": "Designed For S10"
+			"collections": "Designed For S10,Designed For S10 Plus"
 		},
 		{
 			"name": "S10-023",
@@ -211,6 +214,177 @@
 			"copyright": "Credits to its creator",
 			"downloadable": "true",
 			"collections": "Designed For S10"
+		},
+		{
+			"name": "S10-Plus-001",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-001.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-002",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-002.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-003",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-003.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-004",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-004.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-005",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-005.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-006",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-006.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-007",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-007.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-008",
+			"author": "psyspider",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-008.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-009",
+			"author": "marioabirached",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-009.jpg",
+			"dimensions": "900 x 1900",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-010",
+			"author": "Mattcabb",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-010.jpg",
+			"dimensions": "640 x 1351",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-011",
+			"author": "Mattcabb",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-011.jpg",
+			"dimensions": "640 x 1351",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-012",
+			"author": "Mattcabb",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-012.jpg",
+			"dimensions": "640 x 1351",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-013",
+			"author": "Mattcabb",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-013.jpg",
+			"dimensions": "640 x 1351",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-014",
+			"author": "OfficerOtaku",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-014.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-015",
+			"author": "subvisser",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-015.png",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-016",
+			"author": "quanganh2001",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-016.jpg",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-017",
+			"author": "Mattcabb",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-017.jpg",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-018",
+			"author": "TheBucko91",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-018.jpg",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
+		},
+		{
+			"name": "S10-Plus-019",
+			"author": "theWinterDojer",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Designed%20For%20S10%20Plus/S10-Plus-019.jpg",
+			"dimensions": "1440 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Designed For S10 Plus"
 		}
 	]
 }
