@@ -20,9 +20,591 @@
     },
 	{
       "name": "Mi Max 3"
+    },
+	{
+      "name": "Redmi Note 7"
+    },
+	{
+      "name": "Samsung Galaxy Fold"
     }
   ],
 	"wallpapers": [
+		{
+			"name": "Galaxy-Fold-blue-sub",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-blue-sub.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-blue",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-blue.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-dex-1",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-dex-1.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-dex-2",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-dex-2.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-dex-4",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-dex-4.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-essential-1",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-essential-1.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-essential-2",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-essential-2.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-ex-3",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-ex-3.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-green-sub",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-green-sub.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-green",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-green.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-Pink",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-Pink.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-silver-sub",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-silver-sub.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-silver",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-silver.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Galaxy-Fold-sub",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Fold/Galaxy-Fold-sub.png",
+			"dimensions": "2152 x 2152",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy Fold"
+		},
+		{
+			"name": "Redmi-Note-7-01",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-01.jpg",
+			"dimensions": "1125 x 2436",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-02",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-02.jpg",
+			"dimensions": "1242 x 2688",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-03",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-03.jpg",
+			"dimensions": "1707 x 3412",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-04",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-04.jpg",
+			"dimensions": "1773 x 3546",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-05",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-05.png",
+			"dimensions": "4242 x 7542",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-06",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-06.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-07",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-07.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-08",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-08.png",
+			"dimensions": "1500 x 3000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-09",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-09.png",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-10",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-10.jpg",
+			"dimensions": "2160 x 3840",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-11",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-11.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-12",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-12.png",
+			"dimensions": "1599 x 3464",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-13",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-13.jpg",
+			"dimensions": "1080 x 2220",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-14",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-14.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-15",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-15.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-16",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-16.jpg",
+			"dimensions": "1996 x 3992",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-17",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-17.jpg",
+			"dimensions": "2828 x 5656",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-18",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-18.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-19",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-19.jpg",
+			"dimensions": "1080 x 2220",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-20",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-20.jpg",
+			"dimensions": "1080 x 2220",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-21",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-21.jpg",
+			"dimensions": "1080 x 2220",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-22",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-22.jpg",
+			"dimensions": "736 x 1472",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-23",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-23.png",
+			"dimensions": "1299 x 2813",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-24",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-24.jpg",
+			"dimensions": "1984 x 3968",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-25",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-25.jpg",
+			"dimensions": "2035 x 4070",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-26",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-26.jpg",
+			"dimensions": "1125 x 2436",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-27",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-27.jpg",
+			"dimensions": "800 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-28",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-28.jpg",
+			"dimensions": "720 x 1280",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-29",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-29.jpg",
+			"dimensions": "2500 x 5000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-30",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-30.jpeg",
+			"dimensions": "1500 x 3125",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-31",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-31.png",
+			"dimensions": "1772 x 3840",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-32",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-32.jpg",
+			"dimensions": "736 x 1308",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-33",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-33.jpg",
+			"dimensions": "736 x 1308",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-34",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-34.jpg",
+			"dimensions": "744 x 1392",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-35",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-35.png",
+			"dimensions": "1500 x 3000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-36",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-36.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-37",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-37.png",
+			"dimensions": "1125 x 2436",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-38",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-38.jpg",
+			"dimensions": "1156 x 2309",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-39",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-39.jpg",
+			"dimensions": "1440 x 2960",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-40",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-40.png",
+			"dimensions": "1242 x 2688",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-41",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-41.jpg",
+			"dimensions": "1299 x 2813",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-42",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-42.jpg",
+			"dimensions": "1723 x 3446",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-43",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-43.png",
+			"dimensions": "1750 x 3500",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-44",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-44.jpg",
+			"dimensions": "736 x 1308",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-45",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-45.png",
+			"dimensions": "1125 x 2436",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-46",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-46.jpg",
+			"dimensions": "1638 x 2048",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-47",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-47.png",
+			"dimensions": "1242 x 2688",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-48",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-48.jpg",
+			"dimensions": "2464 x 4928",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-49",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-49.png",
+			"dimensions": "1500 x 3000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
+		{
+			"name": "Redmi-Note-7-50",
+			"author": "Redmi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%207/Redmi-Note-7-50.png",
+			"dimensions": "1500 x 3000",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 7"
+		},
 		{
 			"name": "Mi-Max-3-001",
 			"author": "Xiaomi",
