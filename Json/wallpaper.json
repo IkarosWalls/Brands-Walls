@@ -4,6 +4,9 @@
       "name": "Abstract"
     },
 	{
+      "name": "Amoled"
+    },
+	{
       "name": "Asus Rog"
     },
 	{
@@ -13,7 +16,13 @@
       "name": "Designed For S10 Plus"
     },
 	{
+      "name": "Elephone A4"
+    },
+	{
       "name": "Huawei P30"
+    },
+	{
+      "name": "IOS 12"
     },
 	{
       "name": "Mi 8"
@@ -31,6 +40,9 @@
       "name": "MIUI 10"
     },
 	{
+      "name": "Redmi Note 5"
+    },
+	{
       "name": "Redmi Note 7"
     },
 	{
@@ -41,6 +53,807 @@
     }
   ],
 	"wallpapers": [
+		{
+			"name": "Dune-1",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Dune-1.jpg",
+			"dimensions": "1125 x 2438",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Dunes-1",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Dunes-1.jpg",
+			"dimensions": "1125 x 2438",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Feather-1",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Feather-1.jpg",
+			"dimensions": "2125 x 3778",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Fluid-2",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Fluid-2.jpg",
+			"dimensions": "1125 x 2438",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Grooves",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Grooves.jpg",
+			"dimensions": "1125 x 2438",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "iPad",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/iPad.jpg",
+			"dimensions": "3208 x 3208",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "iPhone",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/iPhone.jpg",
+			"dimensions": "1242 x 2208",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "iPhoneX",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/iPhoneX.jpg",
+			"dimensions": "1301 x 2820",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Mojave-Day",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Mojave-Day.jpg",
+			"dimensions": "1200 x 675",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Mojave-Night",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Mojave-Night.jpeg",
+			"dimensions": "1280 x 745",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Rock-2",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Rock-2.jpg",
+			"dimensions": "1125 x 2438",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Wave-1",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Wave-1.png",
+			"dimensions": "1125 x 2438",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Wave-2",
+			"author": "Apple",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/iOS%2012%20Stock%20Wallpapers/Wave-2.png",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "IOS 12"
+		},
+		{
+			"name": "Redmi-Note-5-01",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-01.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-02",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-02.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-03",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-03.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-04",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-04.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-05",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-05.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-06",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-06.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-07",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-07.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-08",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-08.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-09",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-09.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-10",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-10.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-11",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-11.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-12",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-12.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-13",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-13.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-14",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-14.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-15",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-15.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-16",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-16.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-17",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-17.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-18",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-18.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-19",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-19.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-20",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-20.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-21",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-21.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-22",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-22.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-23",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-23.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-24",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-24.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-25",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-25.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-26",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-26.png",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-27",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-27.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-28",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-28.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-29",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-29.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-30",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-30.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-31",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-31.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-32",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-32.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "Redmi-Note-5-33",
+			"author": "Xiaomi",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Redmi%20Note%205%20Styled%20Wallpapers/Redmi-Note-5-33.jpg",
+			"dimensions": "1080 x 2160",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Redmi Note 5"
+		},
+		{
+			"name": "01",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/01.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "02",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/02.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "03",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/03.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "04",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/04.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "05",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/05.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "06",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/06.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "07",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/07.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "08",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/08.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "09",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/09.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "10",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/10.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "11",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/11.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "12",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/12.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "13",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/13.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "14",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/14.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "15",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/15.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "16",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/16.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "17",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/17.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "18",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/18.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "19",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/19.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "20",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/20.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "21",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/21.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "22",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/22.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "23",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/23.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "24",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/24.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "25",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/25.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "26",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/26.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "27",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/27.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "28",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/28.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "29",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/29.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "30",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/30.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "31",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/31.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "32",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/32.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "33",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/33.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "34",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/34.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "35",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/35.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "36",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/36.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "37",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/37.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "38",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/38.jpg",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "39",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/39.png",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "40",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/40.png",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "41",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/41.png",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "42",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/42.png",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
+		{
+			"name": "43",
+			"author": "Elephone",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Elephone%20A4/43.png",
+			"dimensions": "720 x 1512",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Elephone A4"
+		},
 		{
 			"name": "MIUI-10-01",
 			"author": "Xiaomi",
@@ -3361,6 +4174,438 @@
 			"copyright": "Credits to its creator",
 			"downloadable": "true",
 			"collections": "Mi 8"
+		},
+		{
+			"name": "01",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/01.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "02",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/02.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "03",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/03.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "04",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/04.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "05",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/05.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "06",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/06.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "07",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/07.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "08",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/08.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "09",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/09.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "10",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/10.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "11",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/11.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "12",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/12.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "13",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/13.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "14",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/14.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "15",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/15.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "16",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/16.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "17",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/17.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "18",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/18.jpeg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "19",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/19.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "20",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/20.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "21",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/21.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "22",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/22.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "23",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/23.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "24",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/24.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "25",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/25.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "26",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/26.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "27",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/27.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "28",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/28.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "29",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/29.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "30",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/30.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "31",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/31.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "32",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/32.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "33",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/33.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "34",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/34.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "35",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/35.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "36",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/36.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "37",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/37.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "38",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/38.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "39",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/39.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "40",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/40.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "41",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/41.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "42",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/42.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "43",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/43.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "44",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/44.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "45",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/45.png",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "46",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/46.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "47",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/47.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
+		},
+		{
+			"name": "48",
+			"author": "Unknown",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Amoled/48.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Amoled"
 		}
 	]
 }
