@@ -7,6 +7,9 @@
       "name": "Amoled"
     },
 	{
+      "name": "Andoid Q"
+    },
+	{
       "name": "Asus Rog"
     },
 	{
@@ -53,6 +56,141 @@
     }
   ],
 	"wallpapers": [
+		{
+			"name": "earth-orbit",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/earth-orbit.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "earth",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/earth.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "honolulu",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/honolulu.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "lagos",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/lagos.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "mars",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/mars.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "monument-valley",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/monument-valley.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "moon",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/moon.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "uyuni",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/uyuni.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "vesuvius",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/vesuvius.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "windy-1",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/windy-1.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "windy-2",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/windy-2.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "windy-3",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/windy-3.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "windy-4",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/windy-4.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "windy-5",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/windy-5.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
+		{
+			"name": "windy-6",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Android%20Q%20stock%20wallpapers/windy-6.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Andoid Q"
+		},
 		{
 			"name": "Dune-1",
 			"author": "Apple",
