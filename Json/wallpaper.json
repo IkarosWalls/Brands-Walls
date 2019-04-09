@@ -40,6 +40,15 @@
       "name": "Mi Max 3"
     },
 	{
+      "name": "Mi Play"
+    },
+	{
+      "name": "MIUI 10"
+    },
+	{
+      "name": "Nokia 9 PureView"
+    },
+	{
       "name": "OnePlus 6"
     },
 	{
@@ -47,12 +56,6 @@
     },
 	{
       "name": "Pixel Themes"
-    },
-	{
-      "name": "Mi Play"
-    },
-	{
-      "name": "MIUI 10"
     },
 	{
       "name": "Redmi Note 5"
@@ -68,6 +71,96 @@
     }
   ],
 	"wallpapers": [
+		{
+			"name": "curl_curl_beach_aerial",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/curl_curl_beach_aerial.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "grey_glacier_lookout",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/grey_glacier_lookout.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "luminescence",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/luminescence.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "mt_fitz_roy_cerro",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/mt_fitz_roy_cerro.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "night_flight",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/night_flight.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "ore",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/ore.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "purple_haze_ii",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/purple_haze_ii.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "stillness_of_night",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/stillness_of_night.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "torres_del",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/torres_del.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
+		{
+			"name": "upper_antelope_slot",
+			"author": "Nokia",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Nokia%209%20PureView/upper_antelope_slot.jpg",
+			"dimensions": "2880 x 2880",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Nokia 9 PureView"
+		},
 		{
 			"name": "Anthony",
 			"author": "Google",
