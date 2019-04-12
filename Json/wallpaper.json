@@ -83,9 +83,48 @@
     },
 	{
       "name": "Samsung Galaxy S10"
+    },
+	{
+      "name": "Sony Xperia XZ3"
     }
   ],
 	"wallpapers": [
+		{
+			"name": "Xperia-xz3-black",
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Sony%20Xperia%20XZ3%20Stock%20Wallpapers/Xperia-xz3-black.jpeg",
+			"dimensions": "2379 x 5083",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Sony Xperia XZ3"
+		},
+		{
+			"name": "Xperia-xz3-bordeaux-red",
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Sony%20Xperia%20XZ3%20Stock%20Wallpapers/Xperia-xz3-bordeaux-red.jpeg",
+			"dimensions": "2409 x 5066",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Sony Xperia XZ3"
+		},
+		{
+			"name": "Xperia-xz3-forest-green",
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Sony%20Xperia%20XZ3%20Stock%20Wallpapers/Xperia-xz3-forest-green.jpeg",
+			"dimensions": "2371 x 5096",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Sony Xperia XZ3"
+		},
+		{
+			"name": "Xperia-xz3-silver-white",
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Sony%20Xperia%20XZ3%20Stock%20Wallpapers/Xperia-xz3-silver-white.jpeg",
+			"dimensions": "2366 x 5113",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Sony Xperia XZ3"
+		},
 		{
 			"name": "nubia-z18-01",
 			"author": "Nubia",
