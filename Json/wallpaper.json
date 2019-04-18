@@ -97,6 +97,9 @@
       "name": "Samsung Galaxy S10"
     },
 	{
+      "name": "Samsung Galaxy S10 plus 5G"
+    },
+	{
       "name": "Sony Xperia XZ3"
     },
 	{
@@ -104,6 +107,33 @@
     }
   ],
 	"wallpapers": [
+		{
+			"name": "galaxy-s10-plus-5g-01",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20S10%20Plus%205G%20Edition%20Wallpapers/galaxy-s10-plus-5g-01.png",
+			"dimensions": "1121 x 2424",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy S10 plus 5G"
+		},
+		{
+			"name": "galaxy-s10-plus-5g-02",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20S10%20Plus%205G%20Edition%20Wallpapers/galaxy-s10-plus-5g-02.png",
+			"dimensions": "1110 x 2427",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy S10 plus 5G"
+		},
+		{
+			"name": "galaxy-s10-plus-5g-03",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IKAR0S/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20S10%20Plus%205G%20Edition%20Wallpapers/galaxy-s10-plus-5g-03.png",
+			"dimensions": "1260 x 2528",
+			"copyright": "Credits to its creator",
+			"downloadable": "true",
+			"collections": "Samsung Galaxy S10 plus 5G"
+		},
 		{
 			"name": "LG-Aristo-3-01",
 			"author": "LG",
