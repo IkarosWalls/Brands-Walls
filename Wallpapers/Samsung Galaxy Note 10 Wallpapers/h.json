@@ -1,0 +1,94 @@
+{
+	"wallpapers": [
+		{
+			"name": "default_wallpaper",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/default_wallpaper.png",
+			"dimensions": "3040 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "default_wallpaper_blue",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/default_wallpaper_blue.png",
+			"dimensions": "3040 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "default_wallpaper_essential",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/default_wallpaper_essential.png",
+			"dimensions": "3040 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "default_wallpaper_pink",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/default_wallpaper_pink.png",
+			"dimensions": "3040 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "default_wallpaper_silver",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/default_wallpaper_silver.png",
+			"dimensions": "3040 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "default_wallpaper_white",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/default_wallpaper_white.png",
+			"dimensions": "3040 x 3040",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "dex_wallpaper_1",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/dex_wallpaper_1.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "dex_wallpaper_2",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/dex_wallpaper_2.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "dex_wallpaper_3",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/dex_wallpaper_3.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		},
+		{
+			"name": "dex_wallpaper_4",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/IkarosWalls/Brands-Walls/master/Wallpapers/Samsung%20Galaxy%20Note%2010%20Wallpapers/dex_wallpaper_4.png",
+			"dimensions": "1920 x 1920",
+			"copyright": "Credits to its creator",
+			"downloadable": "True",
+			"collections": "Galaxy Note 10"
+		}
+	]
+}
